@@ -257,7 +257,6 @@ h4 strong {
   -ms-grid-column-span: 37;
   grid-area: 9 / 3 / 35 / 40;
   font-size: calc(var(--cell-width) * (18 / 20));
-  overflow: scroll;
 }
 
 .main h3 {
